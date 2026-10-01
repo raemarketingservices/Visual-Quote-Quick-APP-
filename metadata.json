@@ -1,0 +1,6 @@
+{
+  "name": "Quote Quick",
+  "description": "Quote Quick Insurance Group - Fast quotes, real agents, and real coverage for auto, homeowners, life, and commercial lines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
